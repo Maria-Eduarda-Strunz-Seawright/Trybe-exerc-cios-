@@ -1,0 +1,37 @@
+.fonte-nome {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    color: rgb(220, 62, 178);
+    margin:30px auto ;
+    text-align: center;
+  }
+  .fonte-descricao {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+  }
+  .fonte-info-pessoal {
+    font-size: 20px;
+  }
+
+  .fonte-informacoes {
+    font-family: Georgia, 'Times New Roman', Times, serif
+  }
+  .descricao h2 {
+float: right;
+  }
+.descricao {
+    background-color: azure;
+    margin: 10px auto;
+}
+.descricao img {
+padding: 10px rgb(165, 56, 149) ;
+}
+
+.infos li {
+    padding: 10px 10px;
+    background-color: rgb(135, 135, 208);
+    margin: 10%%;
+}
+
+  body {
+    background-color: rgb(220, 195, 215);
+  }
